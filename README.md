@@ -7,7 +7,4 @@ I create minimal, clean & fast setups using:
 ### ⭐ My highlight repo:
 👉 [Hyprland Dotfiles](https://github.com/KamalEhedli/hyprland-dotfiles)
 
-### 🖥️ My setup
-Check screenshots here → [Hyprland Dotfiles](https://github.com/KamalEhedli/hyprland-dotfiles#screenshots)
-
 Always customizing, always learning ✨
