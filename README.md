@@ -1,6 +1,7 @@
 ## Hey, I'm Kamal 👋
 
-I'm a Linux & Hyprland enthusiast.
+Linux & Hyprland enthusiast 🌿 | Learning Data Analytics 📊
+
 I create minimal, clean & fast setups using:
 `Hyprland`, `Waybar`, `Kitty`, `ZSH`, `Manjaro`.
 
