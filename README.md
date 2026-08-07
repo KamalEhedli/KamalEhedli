@@ -1,30 +1,29 @@
 # Hey, I'm Kamal 👋
 
-Linux Enthusiast 🌿 | Aspiring Data Analyst 📊 
+### Linux Enthusiast 🌿 | Aspiring Data Analyst 📊
 
-Decisive and detail-oriented Data Analyst proficient in **Python**, **SQL**, and **Power BI / Tableau **. Experienced in building end-to-end data analytics pipelines, cross-database migrations
----
+I am a decisive and detail-oriented Data Analyst with experience in Python, SQL, Power BI, and Tableau. I focus on transforming raw data into meaningful insights, building end-to-end analytics pipelines, and working with cross-database migrations.
 
-### 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack & Tools
 
-- **Languages:** Python, SQL (T-SQL, MySQL), DAX, M-Code
+- **Languages:** Python, SQL, T-SQL, MySQL, DAX, M
 - **Python Libraries:** Pandas, NumPy, Matplotlib, Seaborn
-- **Databases:** MS SQL Server, MySQL Workbench
-- **BI Tools:** Power BI Desktop , Tableau Desktop
-- **AI & Automation:** Generative AI for Analytics, Advanced Prompt Engineering (Chain-of-Thought, Few-Shot, Role-Based)
-- **Core Competencies:** AI-Assisted Query Optimization, Data Preprocessing, Feature Engineering, Descriptive/Inferential Statistics, Interactive Dashboarding
+- **Databases:** Microsoft SQL Server, MySQL Workbench
+- **BI Tools:** Power BI Desktop, Tableau Desktop
+- **AI & Automation:** Generative AI for Analytics, Prompt Engineering
+- **Core Competencies:** Exploratory Data Analysis, Data Preprocessing, Feature Engineering, Descriptive and Inferential Statistics, AI-Assisted Query Optimization, Interactive Dashboarding
+
+## ⭐ Highlighted Repositories
+
+- 📊 [Data Pipeline Migration & Inventory Analytics](https://github.com/KamalEhedli/inventory-pipeline-migration-pbip)
+- 🏠 [Denmark Housing Analytics](https://github.com/KamalEhedli/denmark-housing-analytics)
+- 🌿 [Hyprland Dotfiles](https://github.com/KamalEhedli/hyprland-dotfiles)
+
+## 📫 Connect With Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/kamal-ehedli/)
+- 📧 [Email](mailto:kamall.ehedli@gmail.com)
 
 ---
 
-### ⭐ Highlight Repositories
-
-* 📊 **Data Analytics:** [Data Pipeline Migration & Inventory Analytics](https://github.com/KamalEhedli/inventory-pipeline-migration-pbip);[Denmark housing analytics](https://github.com/KamalEhedli/denmark-housing-analytics)
-* 🌿 **Linux Setup:** [Hyprland Dotfiles](https://github.com/KamalEhedli/hyprland-dotfiles)
-
----
-
-📫 **Connect with me:** 
-* **LinkedIn:** [Kamal Ehedli](https://linkedin.com/in/kamal-ehedli)
-* **Email:** [your-email@example.com](mailto:kamall.ehedli@gmail.com)
-
-*Always optimizing, always learning ✨*
+*Always optimizing, always learning* ✨
