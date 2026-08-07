@@ -22,7 +22,7 @@ I am a decisive and detail-oriented Data Analyst with experience in Python, SQL,
 ## 📫 Connect With Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/kamal-ehedli/)
-- 📧 [Email](kamall.ehedli@gmail.com)
+- 📧 [kamall.ehedli@gmail.com](mailto:kamall.ehedli@gmail.com)
 
 ---
 
